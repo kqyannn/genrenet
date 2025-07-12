@@ -22,7 +22,7 @@ This repository contains the model training and testing and web-based implementa
 ### 1.1 Prerequisites
 
 **Tools & Access**
-- Jupyter access on the school GPU server  
+- Jupyter access on a GPU server  
 - Python ≥ 3.8 (already configured server-side)  
 - CUDA GPU access (recommended)  
 - A virtual environment (optional but cleaner)  
