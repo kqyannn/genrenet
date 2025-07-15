@@ -1,4 +1,4 @@
-# 📘 ReadMe: GenreNet – Parallel ViT Model
+# 📘 GenreNet – Parallel ViT Model
 
 This repository contains the model training and testing and web-based implementation of a **Book Genre Classification** model utilizing Parallel ViT model for image classification and BERT model for text classification. Below are the instructions for running the respective files for training/testing the model (backend) and deploying it as a web application (frontend).
 
